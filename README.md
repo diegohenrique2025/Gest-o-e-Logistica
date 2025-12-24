@@ -27,7 +27,10 @@ A base de dados contém informações críticas como:
 4. **Performance por Equipa**: Ranking de equipas com menor índice de incidentes.
 
 ## 📸 Visualização
-*(Insira aqui os seus prints das Partes 1 e 2 do projeto)*
+<img width="1438" height="895" alt="image" src="https://github.com/user-attachments/assets/b412917f-5ddc-4175-8cbd-be5accfc5030" />
+<img width="1439" height="900" alt="image" src="https://github.com/user-attachments/assets/ddf77ede-ed3f-4bcc-bcf8-01800cb38f38" />
+
+
 ![Dashboard Logística](screenshots/status_entregas.png)
 
 ---
